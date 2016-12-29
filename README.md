@@ -2,7 +2,7 @@
 
 Convert TSV (Tab Separated Values) tables to Markdown tables.
 
-Useful when, for example, converting Excel tables from Markdown. Simply paste from Excel, select the text, and run the `tsv-to-md:tsv-to-md` command.
+Useful when, for example, converting Excel tables to Markdown. Simply paste from Excel, select the text, and run the `tsv-to-md:tsv-to-md` command.
 
 ## Installation
 
