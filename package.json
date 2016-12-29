@@ -1,7 +1,7 @@
 {
   "name": "tsv-to-md",
   "main": "./lib/tsv-to-md",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Convert TSV (Tab Separated Values) tables to Markdown tables",
   "keywords": [
     "tsv",
