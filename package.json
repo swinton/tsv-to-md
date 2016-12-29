@@ -1,13 +1,17 @@
 {
-    "name": "tsv-to-md",
-    "main": "./lib/tsv-to-md",
-    "version": "0.0.0",
-    "description": "Convert TSV (Tab Separated Values) tables to Markdown tables",
-    "keywords": ["tsv", "excel", "markdown"],
-    "repository": "https://github.com/swinton/tsv-to-md",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {}
+  "name": "tsv-to-md",
+  "main": "./lib/tsv-to-md",
+  "version": "0.1.0",
+  "description": "Convert TSV (Tab Separated Values) tables to Markdown tables",
+  "keywords": [
+    "tsv",
+    "excel",
+    "markdown"
+  ],
+  "repository": "https://github.com/swinton/tsv-to-md",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
